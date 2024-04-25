@@ -1,4 +1,4 @@
-<img src="React JS University Website Img.jpg" alt="React JS University Website" />
+<img src="C:\Users\Diti\Desktop\Screenshot 2024-04-25 222906.png" alt="Web University Website" />
 
 ## For this website I used:
 - [React JS](https://react.dev/)
