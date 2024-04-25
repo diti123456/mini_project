@@ -1,4 +1,4 @@
-<img src="C:\Users\Diti\Desktop\Screenshot 2024-04-25 222906.png" alt="Web University Website" />
+<img src="src/utils/images/Screenshot 2024-04-25 222906.png" alt="Web University Website" />
 
 ## For this website I used:
 - [React JS](https://react.dev/)
